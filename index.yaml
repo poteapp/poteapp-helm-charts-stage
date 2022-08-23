@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  poteapp-jobs:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-23T10:38:32.878251794Z"
+    description: A Helm chart for Kubernetes
+    digest: 1642bb10718c75bb47e4cbfe07f3af2e343313ba29988ec1a299d2c4c9021a30
+    name: poteapp-jobs
+    type: application
+    urls:
+    - https://github.com/poteapp/poteapp-helm-charts-stage/releases/download/poteapp-jobs-0.1.0/poteapp-jobs-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-23T10:38:32.637097403Z"
